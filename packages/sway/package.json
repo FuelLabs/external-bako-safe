@@ -16,7 +16,7 @@
   "devDependencies": {
     "@types/node": "^16.18.104",
     "dotenv": "^16.4.5",
-    "elliptic": "^6.5.6"
+    "elliptic": "^6.6.1"
   },
   "dependencies": {
     "fuels": "0.95.0"
